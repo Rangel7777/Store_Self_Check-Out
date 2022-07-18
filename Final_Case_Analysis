@@ -1,0 +1,24 @@
+1. Test case
+ a. Validation
+  i. Running test for user validation. Make sure only certain values were used for the program to run well
+  ii. If the user enters a value that wasn’t given an option. The program will prompt the user to evaluate their answer and try again using the options they were suggested.
+b. Test runs
+  i. The program has been run in numerous ways to make sure there are no complications.
+  ii. Program was run with negative values to make sure that the program doesn’t use those values and only accepts positive
+  iii. Test that calculation where matching correctly
+c. Display
+  i. Program was run for the following
+    1. Proper space
+    2. Organization
+    3. Easy readability
+    4. Displaying correct information
+2. Analysis of algorithm
+  a. With the program giving the option to select how many items they are purchasing; the time will be based on how fast the user enters the items  name and times and as well for the other questions that are asked. Time complexity can vary depending on the situation. Time complexity is     given at the end to give a time on how long the program took to process.
+  b. If the user was purchasing 1 item it could be a rough estimate of time complexity of 10-20 seconds
+3. Lessons Learned
+  a. What I learned in this project was how a linked list can be used in the real world. My project just touches the surface of a real-world program. It taught me how they are implemented everywhere that uses to collect data to be stored or used later on for other purposes.
+  b. Another thing I learned was using maps. It’s interesting how they can be implemented in programs. It can form connections with two different or same data types. It has made it easier for users to make connections. I can see how maps are used in the real world and have made it easier for programs to form connections.
+  c. Challenges I had was mostly with using the two objectives I mentioned earlier. They were a challenge to fully understand but by building my project I was able to overcome and continue with my project
+  d. There are many areas to improve with my program and skills. With the limited time given and the skills, I have learned I gave what I was able to with this program. There are most likely easier ways my program could have been written but I was able to execute the purpose of my program. By studying the other objectives more I will later be able to strengthen my skills.
+ 
+ 
