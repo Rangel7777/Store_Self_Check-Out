@@ -1,1 +1,0 @@
-# Store_Self_Check-Out
